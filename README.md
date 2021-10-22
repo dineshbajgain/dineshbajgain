@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Employee relationship management**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **vue3**
 
 - 👨‍💻 All of my projects are available at [bajgaindinesh.com.np](bajgaindinesh.com.np)
 
