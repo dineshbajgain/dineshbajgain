@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [bajgaindinesh.com.np](bajgaindinesh.com.np)
 
-- 💬 Ask me about **Javascript**
+- 💬 Published npm packages are in https://www.npmjs.com/~bajgaindinesh 
 
 - 📫 How to reach me **bajgaindinesh@gmail.com**
 
